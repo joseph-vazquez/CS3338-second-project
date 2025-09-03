@@ -1,0 +1,60 @@
+commit 40345dc9f7ea861ebec267e2ba79025d3e2cb71f
+Merge: 6d12d93 3476848
+Author: Joseph <147561216+joseph-vazquez@users.noreply.github.com>
+Date:   Wed Sep 3 14:43:17 2025 -0700
+
+    Merge pull request #2 from joseph-vazquez/index-fix
+    
+    Update index.html
+
+commit 3476848f11689c87765875fcf87cce5fcb73eb3d
+Merge: 74c2500 6d12d93
+Author: Joseph <147561216+joseph-vazquez@users.noreply.github.com>
+Date:   Wed Sep 3 14:41:59 2025 -0700
+
+    Merge branch 'main' into index-fix
+
+commit 6d12d9312dadbfc4b1e524d94768530f4978b578
+Author: Joseph <147561216+joseph-vazquez@users.noreply.github.com>
+Date:   Wed Sep 3 14:39:52 2025 -0700
+
+    Update index.html
+    
+    I updated a new div
+
+commit 74c250030eaa3ac1dc498298bd8d55e557c21d5d
+Author: Joseph <147561216+joseph-vazquez@users.noreply.github.com>
+Date:   Wed Sep 3 14:39:48 2025 -0700
+
+    Update index.html
+    
+    Updated new div
+
+commit 0d4f10234aadd24df46daccc71faa720a3295195
+Author: Joseph <147561216+joseph-vazquez@users.noreply.github.com>
+Date:   Wed Sep 3 14:30:31 2025 -0700
+
+    Create README.md
+    
+    Added a readme file
+
+commit 7c803c377bc8c19896fa693cb4a6ec22f3192251
+Merge: 1d2bfc0 eb7e6b2
+Author: Joseph <147561216+joseph-vazquez@users.noreply.github.com>
+Date:   Fri Aug 29 12:33:19 2025 -0700
+
+    Merge pull request #1 from joseph-vazquez/info-fill
+    
+    Update index.html
+
+commit eb7e6b25c0609d836063b7aa050797d16acfcbbb
+Author: Joseph <147561216+joseph-vazquez@users.noreply.github.com>
+Date:   Fri Aug 29 12:25:30 2025 -0700
+
+    Update index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
